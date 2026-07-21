@@ -2,8 +2,8 @@
 ### 📚 Ciências da Computação
 ### 📍 Sou uma entusiasta do aprendizado e adoro me desafiar a explorar novas tecnologias e abordagens. Minha criatividade me motiva a buscar soluções inovadoras e a aprender algo novo todos os dias.
 
-![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=brunavalgas&show_icons=true&theme=synthwave&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunavalgas&layout=compact&theme=synthwave&count_private=true)
+![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=brunavalgas&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunavalgas&layout=compact&theme=synthwave)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruna.valgas/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-valgas-araujo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOzuitrz3TryIsSSuqRP67Q%3D%3D)
