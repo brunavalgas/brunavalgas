@@ -101,5 +101,8 @@ Estou aberta a oportunidades de networking e colaboração, e estou ansiosa para
 
 </p>
 
-<img src="https://raw.githubusercontent.com/brunavalgas/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align=center>
 
+    <img src="https://raw.githubusercontent.com/brunavalgas/brunavalgas/output/snake.svg" alt="Snake animation" />
+    
+</div>
