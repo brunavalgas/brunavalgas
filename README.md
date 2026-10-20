@@ -92,17 +92,14 @@ Estou aberta a oportunidades de networking e colaboração, e estou ansiosa para
     src="https://github-readme-stats.vercel.app/api?username=brunavalgas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunavalgas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    />
 </p>
 
-<div align=center>
-
+<div align="center">
     <img src="https://raw.githubusercontent.com/brunavalgas/brunavalgas/output/snake.svg" alt="Snake animation" />
-    
 </div>
